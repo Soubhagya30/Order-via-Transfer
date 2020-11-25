@@ -11,8 +11,8 @@ namespace RazorpaySampleApp
         public string orderId;
         protected void Page_Load(object sender, EventArgs e)
         {
-            string key = "rzp_test_2pjQoIV7c1RY6C";
-            string secret = "nWwe91xQO3NIDzJUp1mUmr9O";
+           string key = "rzp_test_xxxxxxxx";
+           string secret = "xxxxxxxxxxxxxx";
 
             
             ListDictionary trf = new ListDictionary();
