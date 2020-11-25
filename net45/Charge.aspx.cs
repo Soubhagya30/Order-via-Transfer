@@ -14,8 +14,8 @@ namespace RazorpaySampleApp
             input.Add("amount", 100); // this amount should be same as transaction amount
 
 
-            string key = "rzp_test_2pjQoIV7c1RY6C";
-            string secret = "nWwe91xQO3NIDzJUp1mUmr9O";
+            string key = "rzp_test_xxxxxxxx";
+            string secret = "xxxxxxxxxxxxxx";
 
             RazorpayClient client = new RazorpayClient(key, secret);
 
