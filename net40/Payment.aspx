@@ -10,7 +10,7 @@
     <form action="Charge.aspx" method="post">
 <script
     src="https://checkout.razorpay.com/v1/checkout.js"
-    data-key="rzp_test_2pjQoIV7c1RY6C"
+    data-key="rzp_test_xxxxxxxx"
     data-amount="100"
     data-name="Razorpay"
     data-description="Purchase Description"
